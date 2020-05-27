@@ -1,27 +1,58 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NEONIKK.github.com" resolutions="1x" timestamp="1590614176237">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590619461568">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-wzorcowa.css" crc="348213683" ref="index:news:contact:projects"/>
+    <file name="master_b-wzorcowa.css" crc="348213683" ref="index:news:about-me:projects"/>
     <file name="index.css" crc="66084645" ref="index"/>
-    <file name="news.css" crc="249082268" ref="news"/>
-    <file name="contact.css" crc="111711020" ref="contact"/>
-    <file name="projects.css" crc="3921595425" ref="projects"/>
+    <file name="news.css" crc="3849589217" ref="news"/>
+    <file name="about-me.css" crc="111008752" ref="about-me"/>
+    <file name="projects.css" crc="4162175073" ref="projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="projects:contact:news:index"/>
-    <file name="museutils.js" crc="3939489907" ref="projects:contact:news:index"/>
-    <file name="whatinput.js" crc="86476730" ref="projects:contact:news:index"/>
-    <file name="museconfig.js" crc="3936894949" ref="projects:contact:news:index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="projects:contact:news:index"/>
-    <file name="require.js" crc="4177726516" ref="projects:contact:news:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="projects:about-me:news:index"/>
+    <file name="museutils.js" crc="3939489907" ref="projects:about-me:news:index"/>
+    <file name="whatinput.js" crc="86476730" ref="projects:about-me:news:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="projects:about-me:news:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="projects:about-me:news:index"/>
+    <file name="require.js" crc="4177726516" ref="projects:about-me:news:index"/>
   </folder>
   <folder name="images">
-    <file name="avatar.jpg" crc="51562110" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
+    <file name="246968-crop0_52_1680_997-zxfq5e8a-v4.jpg" crc="4006656615" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="359238-crop1_63_630_417-gpvmjttw-v4.jpg" crc="85500797" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="winwhite.png" crc="122454962" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="appwhite.png" crc="225188895" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="html5.png" crc="88883751" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="androidwhite.png" crc="16668207" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="372813-crop0_24_1280_744-xq8jd6mq-v4.jpg" crc="4262011505" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="372636-crop0_74_720_479-bc34byfr-v4.jpg" crc="21211451" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="366389-crop0_26_1280_746-qiuptaui-v4.jpg" crc="3859318925" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="avatar.jpg" crc="51562110" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="projects.html" crc="257152067" seo="true" mt="1590613483038" redirect="true"/>
-  <file name="contact.html" crc="363670287" seo="true" mt="1590613483038" redirect="true"/>
-  <file name="news.html" crc="514635858" seo="true" mt="1590613483038" redirect="true"/>
-  <file name="index.html" crc="4019050125" seo="true" mt="1590613483038" redirect="true"/>
+  <file name="projects.html" crc="4086119893" seo="true" mt="1590618982899" redirect="true"/>
+  <file name="about-me.html" crc="197234151" seo="true" mt="1590618443359" redirect="true"/>
+  <file name="news.html" crc="3782605113" seo="true" mt="1590618868059" redirect="true"/>
+  <file name="index.html" crc="3828216088" seo="true" mt="1590614990899" redirect="true"/>
 </manifest>
