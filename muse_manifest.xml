@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590621910866">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590622373221">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-wzorcowa.css" crc="471560163" ref="news:projects:index:about-me"/>
+    <file name="master_b-wzorcowa.css" crc="7602142" ref="news:projects:index:about-me"/>
     <file name="news.css" crc="3837766021" ref="news"/>
     <file name="projects.css" crc="3866830622" ref="projects"/>
-    <file name="index.css" crc="363290382" ref="index"/>
+    <file name="index.css" crc="285193966" ref="index"/>
     <file name="about-me.css" crc="107536408" ref="about-me"/>
   </folder>
   <folder name="scripts">
@@ -82,5 +82,5 @@
   <file name="projects.html" crc="3920854530" seo="true" mt="1590621512197" redirect="true"/>
   <file name="about-me.html" crc="4103414178" seo="true" mt="1590620510163" redirect="true"/>
   <file name="news.html" crc="79403204" seo="true" mt="1590620827930" redirect="true"/>
-  <file name="index.html" crc="380619411" seo="true" mt="1590619786694" redirect="true"/>
+  <file name="index.html" crc="57982935" seo="true" mt="1590622347994" redirect="true"/>
 </manifest>
