@@ -2,9 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://natsitarz.github.com/index.html</loc>
-    <lastmod>2020-05-27</lastmod>
+    <lastmod>2020-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://natsitarz.github.com/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://natsitarz.github.com/projects.html</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://natsitarz.github.com/phone/projects.html"/>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/246968-crop0_52_1680_997-zxfq5e8a-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/winwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/appwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/372813-crop0_24_1280_744-xq8jd6mq-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/html5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/366389-crop0_26_1280_746-qiuptaui-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/359238-crop1_63_630_417-gpvmjttw-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/androidwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/372636-crop0_74_720_479-bc34byfr-v4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://natsitarz.github.com/phone/aboutme.html</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://natsitarz.github.com/news.html</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://natsitarz.github.com/phone/news.html"/>
   </url>
   <url>
     <loc>http://natsitarz.github.com/about-me.html</loc>
@@ -14,44 +62,5 @@
     <image:image>
       <image:loc>http://natsitarz.github.com/images/avatar.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://natsitarz.github.com/projects.html</loc>
-    <lastmod>2020-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/246968-crop0_52_1680_997-zxfq5e8a-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/359238-crop1_63_630_417-gpvmjttw-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/winwhite.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/appwhite.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/html5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/androidwhite.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/372813-crop0_24_1280_744-xq8jd6mq-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/372636-crop0_74_720_479-bc34byfr-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/366389-crop0_26_1280_746-qiuptaui-v4.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://natsitarz.github.com/news.html</loc>
-    <lastmod>2020-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
