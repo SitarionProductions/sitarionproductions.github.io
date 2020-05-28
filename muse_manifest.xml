@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590625444851">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590625887196">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-wzorcowa.css" crc="7602142" ref="news:projects:index:about-us"/>
-    <file name="news.css" crc="3939632133" ref="news"/>
-    <file name="projects.css" crc="4062562462" ref="projects"/>
-    <file name="index.css" crc="115871377" ref="index"/>
-    <file name="about-us.css" crc="329945158" ref="about-us"/>
+    <file name="master_b-wzorcowa.css" crc="4047031439" ref="news:projects:index:about-us"/>
+    <file name="news.css" crc="9413842" ref="news"/>
+    <file name="projects.css" crc="4193142781" ref="projects"/>
+    <file name="index.css" crc="3778909483" ref="index"/>
+    <file name="about-us.css" crc="425949178" ref="about-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
@@ -67,8 +67,8 @@
     <file name="projects.html" crc="4100736971" seo="true" mt="1590621873819" redirect="true"/>
     <file name="aboutme.html" crc="3856163108" seo="true" mt="1590621033158" redirect="true"/>
   </folder>
-  <file name="projects.html" crc="3877743783" seo="true" mt="1590624783177" redirect="true"/>
-  <file name="news.html" crc="407450569" seo="true" mt="1590624783177" redirect="true"/>
-  <file name="index.html" crc="3875054064" seo="true" mt="1590625439885" redirect="true"/>
-  <file name="about-us.html" crc="3998438859" seo="true" mt="1590624783177" redirect="true"/>
+  <file name="projects.html" crc="4260549877" seo="true" mt="1590625867781" redirect="true"/>
+  <file name="news.html" crc="4002051205" seo="true" mt="1590625867781" redirect="true"/>
+  <file name="index.html" crc="4225130487" seo="true" mt="1590625867781" redirect="true"/>
+  <file name="about-us.html" crc="3947897459" seo="true" mt="1590625867781" redirect="true"/>
 </manifest>
