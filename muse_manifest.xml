@@ -1,35 +1,31 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590622688764">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590624863180">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-wzorcowa.css" crc="7602142" ref="news:projects:index:about-me"/>
-    <file name="news.css" crc="3837766021" ref="news"/>
-    <file name="projects.css" crc="3866830622" ref="projects"/>
-    <file name="index.css" crc="24322661" ref="index"/>
-    <file name="about-me.css" crc="107536408" ref="about-me"/>
+    <file name="master_b-wzorcowa.css" crc="7602142" ref="news:projects:index:about-us"/>
+    <file name="news.css" crc="3939632133" ref="news"/>
+    <file name="projects.css" crc="4062562462" ref="projects"/>
+    <file name="index.css" crc="282767237" ref="index"/>
+    <file name="about-us.css" crc="329945158" ref="about-us"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:about-me:news:index"/>
-    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:about-me:news:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:about-me:news:index"/>
-    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:about-me:news:index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:about-me:news:index"/>
-    <file name="require.js" crc="4177726516" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:about-me:news:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
   </folder>
   <folder name="images">
     <file name="246968-crop0_52_1680_997-zxfq5e8a-v4.jpg" crc="4006656615" seo="true" ref="phone>projects:projects">
       <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
     <file name="winwhite.png" crc="122454962" seo="true" ref="phone>projects:projects">
-      <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
     </file>
     <file name="appwhite.png" crc="225188895" seo="true" ref="phone>projects:projects">
       <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
     <file name="372813-crop0_24_1280_744-xq8jd6mq-v4.jpg" crc="4262011505" seo="true" ref="phone>projects:projects">
-      <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
     </file>
     <file name="html5.png" crc="88883751" seo="true" ref="phone>projects:projects">
@@ -37,30 +33,22 @@
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
     <file name="366389-crop0_26_1280_746-qiuptaui-v4.jpg" crc="3859318925" seo="true" ref="phone>projects:projects">
       <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
     <file name="359238-crop1_63_630_417-gpvmjttw-v4.jpg" crc="85500797" seo="true" ref="phone>projects:projects">
-      <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
     </file>
     <file name="androidwhite.png" crc="16668207" seo="true" ref="phone>projects:projects">
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
     <file name="372636-crop0_74_720_479-bc34byfr-v4.jpg" crc="21211451" seo="true" ref="phone>projects:projects">
       <caption webpage="projects" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
-    <file name="avatar.jpg" crc="51562110" seo="true" ref="phone>aboutme:about-me">
+    <file name="avatar.jpg" crc="51562110" seo="true" ref="phone>aboutme:about-us">
+      <caption webpage="about-us" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="aboutme" alt=""/>
     </file>
@@ -71,16 +59,16 @@
       <file name="master_a.css" crc="3852882190" ref="phone>index"/>
       <file name="news.css" crc="138061023" ref="phone>news"/>
       <file name="aboutme.css" crc="20483408" ref="phone>aboutme"/>
-      <file name="index.css" crc="3992674567" ref="phone>index"/>
+      <file name="index.css" crc="4022256546" ref="phone>index"/>
       <file name="projects.css" crc="3983162097" ref="phone>projects"/>
     </folder>
-    <file name="index.html" crc="201777028" seo="true" mt="1590621044782" redirect="true"/>
+    <file name="index.html" crc="4075500550" seo="true" mt="1590624836078" redirect="true"/>
     <file name="news.html" crc="3846742756" seo="true" mt="1590621103715" redirect="true"/>
     <file name="projects.html" crc="4100736971" seo="true" mt="1590621873819" redirect="true"/>
     <file name="aboutme.html" crc="3856163108" seo="true" mt="1590621033158" redirect="true"/>
   </folder>
-  <file name="projects.html" crc="3920854530" seo="true" mt="1590621512197" redirect="true"/>
-  <file name="about-me.html" crc="4103414178" seo="true" mt="1590620510163" redirect="true"/>
-  <file name="news.html" crc="79403204" seo="true" mt="1590620827930" redirect="true"/>
-  <file name="index.html" crc="24944465" seo="true" mt="1590622669671" redirect="true"/>
+  <file name="projects.html" crc="3877743783" seo="true" mt="1590624783177" redirect="true"/>
+  <file name="news.html" crc="407450569" seo="true" mt="1590624783177" redirect="true"/>
+  <file name="index.html" crc="4037801981" seo="true" mt="1590624848472" redirect="true"/>
+  <file name="about-us.html" crc="3998438859" seo="true" mt="1590624783177" redirect="true"/>
 </manifest>
