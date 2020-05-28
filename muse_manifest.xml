@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590625887196">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590626210227">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_b-wzorcowa.css" crc="4047031439" ref="news:projects:index:about-us"/>
-    <file name="news.css" crc="9413842" ref="news"/>
+    <file name="news.css" crc="208762714" ref="news"/>
     <file name="projects.css" crc="4193142781" ref="projects"/>
     <file name="index.css" crc="3778909483" ref="index"/>
     <file name="about-us.css" crc="425949178" ref="about-us"/>
@@ -55,20 +55,20 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_b-wzorcowa.css" crc="428043807" ref="phone>news:phone>aboutme:phone>projects"/>
+      <file name="master_b-wzorcowa.css" crc="3932994943" ref="phone>news:phone>aboutme:phone>projects"/>
       <file name="master_a.css" crc="3852882190" ref="phone>index"/>
-      <file name="news.css" crc="138061023" ref="phone>news"/>
+      <file name="news.css" crc="4080748745" ref="phone>news"/>
       <file name="aboutme.css" crc="20483408" ref="phone>aboutme"/>
       <file name="index.css" crc="4022256546" ref="phone>index"/>
       <file name="projects.css" crc="3983162097" ref="phone>projects"/>
     </folder>
     <file name="index.html" crc="4075500550" seo="true" mt="1590624836078" redirect="true"/>
-    <file name="news.html" crc="3846742756" seo="true" mt="1590621103715" redirect="true"/>
+    <file name="news.html" crc="93786163" seo="true" mt="1590626070970" redirect="true"/>
     <file name="projects.html" crc="4100736971" seo="true" mt="1590621873819" redirect="true"/>
     <file name="aboutme.html" crc="3856163108" seo="true" mt="1590621033158" redirect="true"/>
   </folder>
   <file name="projects.html" crc="4260549877" seo="true" mt="1590625867781" redirect="true"/>
-  <file name="news.html" crc="4002051205" seo="true" mt="1590625867781" redirect="true"/>
-  <file name="index.html" crc="4225130487" seo="true" mt="1590625867781" redirect="true"/>
+  <file name="news.html" crc="4058016748" seo="true" mt="1590626043887" redirect="true"/>
+  <file name="index.html" crc="3795353952" seo="true" mt="1590626193094" redirect="true"/>
   <file name="about-us.html" crc="3947897459" seo="true" mt="1590625867781" redirect="true"/>
 </manifest>
