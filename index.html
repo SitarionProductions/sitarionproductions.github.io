@@ -24,32 +24,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-wzorcowa.css?crc=7602142"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=115871377" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=9490933" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script src="https://webfonts.creativecloud.com/wire-one:n4:all;gruppo:n4:all;geostar:n4:all.js" type="text/javascript"></script>
-    <!--HTML Widget code-->
-  
-  <style>
-    #u1768 {
-      height: auto !important;
-    }
-
-    .tippy-tooltip {
-      font-family: Arial, Helvetica, sans-serif;
-    }
-  </style>
-
-  <link rel="stylesheet" href="https://unpkg.com/tippy.js@1.4.2/dist/tippy.css">  
-  <script src="https://unpkg.com/tippy.js@1.4.2/dist/tippy.min.js" type="text/javascript"></script>
-
- </head>
+   </head>
  <body>
 
-  <div class="aha clearfix borderbox" id="page"><!-- group -->
+  <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="ppu243"><!-- column -->
     <div class="clearfix colelem" id="pu243"><!-- group -->
      <div class="grpelem" id="u243"><!-- simple frame --></div>
@@ -68,17 +53,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
    <a class="nonblock nontext clearfix grpelem" id="u234-4" href="projects.html" data-href="page:U189" data-IBE-flags="txtStyleSrc"><!-- content --><p>PROJECTS</p></a>
    <a class="nonblock nontext clearfix grpelem" id="u236-4" href="news.html" data-href="page:U213" data-IBE-flags="txtStyleSrc"><!-- content --><p>NEWS</p></a>
-   <div class="clearfix grpelem" id="ppu235-4"><!-- column -->
-    <div class="clearfix colelem" id="pu235-4"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u235-4" href="about-us.html" data-href="page:U201" data-IBE-flags="txtStyleSrc"><!-- content --><p>ABOUT US</p></a>
-     <div class="grpelem" id="u246"><!-- simple frame --></div>
-    </div>
-    <div class="size_fixed colelem" id="u1768" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
-     
-
-    </div>
-   </div>
-   <div class="verticalspacer" data-offset-top="447" data-content-above-spacer="447" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <a class="nonblock nontext clearfix grpelem" id="u235-4" href="about-us.html" data-href="page:U201" data-IBE-flags="txtStyleSrc"><!-- content --><p>ABOUT US</p></a>
+   <div class="grpelem" id="u246"><!-- simple frame --></div>
+   <div class="verticalspacer" data-offset-top="272" data-content-above-spacer="271" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="clearfix grpelem" id="pu522"><!-- column -->
     <div class="colelem" id="u522"><!-- simple frame --></div>
     <div class="clearfix colelem" id="u519-4" data-IBE-flags="txtStyleSrc" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content -->
@@ -87,13 +64,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="colelem" id="u525"><!-- simple frame --></div>
    </div>
   </div>
-  <!-- JS includes -->
-  <script type="text/javascript">
-   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
-</script>
-  <script type="text/javascript">
-   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
-</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide whether to suppress missing file error or not based on preference setting
@@ -118,54 +88,5 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=3936894949" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
-  
-  <!--HTML Widget code-->
-  
-<script src="https://unpkg.com/tippy.js@1.4.2/dist/tippy.min.js" type="text/javascript"></script>
-
-<script>
-  $(document).ready(function() {
-    
-    // Get params
-    var duration = parseInt('500');
-    var delay = parseInt('0');
-    var element = $('.' + 'aha');
-    var interactivity = 'mouseenter';
-    var theme = 'dark';
-    var size = 'regular';
-    element.attr('title', 'If you see this site on phone, just click this button.');    
-    
-    function waitForDependencies() {
-      if (typeof tippy !== 'undefined') {
-        initiTippy();
-      } else {
-        console.log('Tippy not loaded');
-        setTimeout(waitForDependencies, 500);
-      }
-    }   
-    
-    function initiTippy () {
-      tippy('.' + 'aha', {
-        position: 'top',
-        animation: 'shift',
-        duration: duration,
-        arrow: true,
-        delay: delay,
-        trigger: interactivity,
-        theme: theme,
-        size: size
-      });
-    }
-
-    setTimeout(function(){
-      waitForDependencies();
-    }, 700);
-  });
-</script>
-
-<script>
-  console.log('Tooltips (1.0) - Muse-Themes.com');
-</script>
-
    </body>
 </html>
