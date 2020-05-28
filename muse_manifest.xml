@@ -1,74 +1,95 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590626210227">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590695669985">
+  <folder name="assets">
+    <file name="bez-nazwy-1.png" crc="4086237587" seo="true" mt="1590672550000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-wzorcowa.css" crc="4047031439" ref="news:projects:index:about-us"/>
-    <file name="news.css" crc="208762714" ref="news"/>
-    <file name="projects.css" crc="4193142781" ref="projects"/>
-    <file name="index.css" crc="3778909483" ref="index"/>
-    <file name="about-us.css" crc="425949178" ref="about-us"/>
+    <file name="master_b-wzorcowa.css" crc="3917828592" ref="index:news--sitarion-productions:projects--sitarion-productions:about-us--sitarion-productions"/>
+    <file name="index.css" crc="369405368" ref="index"/>
+    <file name="news--sitarion-productions.css" crc="161421490" ref="news--sitarion-productions"/>
+    <file name="projects--sitarion-productions.css" crc="307729769" ref="projects--sitarion-productions"/>
+    <file name="about-us--sitarion-productions.css" crc="239326676" ref="about-us--sitarion-productions"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
-    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
-    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
-    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
-    <file name="require.js" crc="4177726516" ref="phone>index:phone>news:phone>projects:phone>aboutme:projects:news:index:about-us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
   </folder>
   <folder name="images">
-    <file name="246968-crop0_52_1680_997-zxfq5e8a-v4.jpg" crc="4006656615" seo="true" ref="phone>projects:projects">
+    <file name="246968-crop0_52_1680_997-zxfq5e8a-v4.jpg" crc="4006656615" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="winwhite.png" crc="122454962" seo="true" ref="phone>projects:projects">
+    <file name="winwhite.png" crc="122454962" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="appwhite.png" crc="225188895" seo="true" ref="phone>projects:projects">
+    <file name="appwhite.png" crc="225188895" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="372813-crop0_24_1280_744-xq8jd6mq-v4.jpg" crc="4262011505" seo="true" ref="phone>projects:projects">
+    <file name="372813-crop0_24_1280_744-xq8jd6mq-v4.jpg" crc="4262011505" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="html5.png" crc="88883751" seo="true" ref="phone>projects:projects">
+    <file name="html5.png" crc="88883751" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="366389-crop0_26_1280_746-qiuptaui-v4.jpg" crc="3859318925" seo="true" ref="phone>projects:projects">
+    <file name="366389-crop0_26_1280_746-qiuptaui-v4.jpg" crc="3859318925" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="359238-crop1_63_630_417-gpvmjttw-v4.jpg" crc="85500797" seo="true" ref="phone>projects:projects">
+    <file name="359238-crop1_63_630_417-gpvmjttw-v4.jpg" crc="85500797" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="androidwhite.png" crc="16668207" seo="true" ref="phone>projects:projects">
+    <file name="androidwhite.png" crc="16668207" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="372636-crop0_74_720_479-bc34byfr-v4.jpg" crc="21211451" seo="true" ref="phone>projects:projects">
+    <file name="372636-crop0_74_720_479-bc34byfr-v4.jpg" crc="21211451" seo="true" ref="phone>projects:projects--sitarion-productions">
       <caption webpage="projects" alt=""/>
+      <caption webpage="projects--sitarion-productions" alt=""/>
     </file>
-    <file name="avatar.jpg" crc="51562110" seo="true" ref="phone>aboutme:about-us">
-      <caption webpage="about-us" alt=""/>
+    <file name="avatar.jpg" crc="51562110" seo="true" ref="phone>aboutme:about-us--sitarion-productions">
       <caption webpage="about-me" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="aboutme" alt=""/>
+      <caption webpage="about-us--sitarion-productions" alt=""/>
+      <caption webpage="about-us--sitarion-productions" alt=""/>
+      <caption webpage="about-us--sitarion-productions" alt=""/>
+      <caption webpage="about-us--sitarion-productions" alt=""/>
+      <caption webpage="about-us--sitarion-productions" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_b-wzorcowa.css" crc="3932994943" ref="phone>news:phone>aboutme:phone>projects"/>
+      <file name="master_b-wzorcowa.css" crc="428043807" ref="phone>news:phone>aboutme:phone>projects"/>
       <file name="master_a.css" crc="3852882190" ref="phone>index"/>
-      <file name="news.css" crc="4080748745" ref="phone>news"/>
+      <file name="news.css" crc="265559884" ref="phone>news"/>
       <file name="aboutme.css" crc="20483408" ref="phone>aboutme"/>
       <file name="index.css" crc="4022256546" ref="phone>index"/>
       <file name="projects.css" crc="3983162097" ref="phone>projects"/>
     </folder>
     <file name="index.html" crc="4075500550" seo="true" mt="1590624836078" redirect="true"/>
-    <file name="news.html" crc="93786163" seo="true" mt="1590626070970" redirect="true"/>
-    <file name="projects.html" crc="4100736971" seo="true" mt="1590621873819" redirect="true"/>
+    <file name="news.html" crc="286942435" seo="true" mt="1590672777752" redirect="true"/>
+    <file name="projects.html" crc="4203363359" seo="true" mt="1590672783864" redirect="true"/>
     <file name="aboutme.html" crc="3856163108" seo="true" mt="1590621033158" redirect="true"/>
   </folder>
-  <file name="projects.html" crc="4260549877" seo="true" mt="1590625867781" redirect="true"/>
-  <file name="news.html" crc="4058016748" seo="true" mt="1590626043887" redirect="true"/>
-  <file name="index.html" crc="3795353952" seo="true" mt="1590626193094" redirect="true"/>
-  <file name="about-us.html" crc="3947897459" seo="true" mt="1590625867781" redirect="true"/>
+  <file name="index.html" crc="156712678" seo="true" mt="1590672783861" redirect="true"/>
+  <file name="projects--sitarion-productions.html" crc="3832912567" seo="true" mt="1590672783865" redirect="true"/>
+  <file name="about-us--sitarion-productions.html" crc="4253566735" seo="true" mt="1590672783861" redirect="true"/>
+  <file name="news--sitarion-productions.html" crc="4093238126" seo="true" mt="1590672783861" redirect="true"/>
 </manifest>
