@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590699658209">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="natsitarz.github.com" resolutions="1x" timestamp="1590700594751">
   <folder name="assets">
     <file name="bez-nazwy-1.png" crc="4086237587" seo="true" mt="1590672550000"/>
   </folder>
@@ -8,7 +8,7 @@
     <file name="index.css" crc="4138044773" ref="index"/>
     <file name="news--sitarion-productions.css" crc="161421490" ref="news--sitarion-productions"/>
     <file name="projects--sitarion-productions.css" crc="307729769" ref="projects--sitarion-productions"/>
-    <file name="about-us--sitarion-productions.css" crc="274165220" ref="about-us--sitarion-productions"/>
+    <file name="about-us--sitarion-productions.css" crc="4247601878" ref="about-us--sitarion-productions"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>news:phone>projects:phone>aboutme:index:projects--sitarion-productions:about-us--sitarion-productions:news--sitarion-productions"/>
@@ -65,9 +65,9 @@
     </file>
     <file name="avatar.jpg" crc="51562110" seo="true" ref="phone>aboutme:about-us--sitarion-productions">
       <caption webpage="about-us--sitarion-productions" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="aboutme" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="brzdj.png" crc="172339890" seo="true" ref="about-us--sitarion-productions">
       <caption webpage="about-us--sitarion-productions" alt=""/>
@@ -101,6 +101,6 @@
   </folder>
   <file name="index.html" crc="307441946" seo="true" mt="1590696324533" redirect="true"/>
   <file name="projects--sitarion-productions.html" crc="3832912567" seo="true" mt="1590672783865" redirect="true"/>
-  <file name="about-us--sitarion-productions.html" crc="3790537801" seo="true" mt="1590699650892" redirect="true"/>
+  <file name="about-us--sitarion-productions.html" crc="4016257503" seo="true" mt="1590700586955" redirect="true"/>
   <file name="news--sitarion-productions.html" crc="4093238126" seo="true" mt="1590672783861" redirect="true"/>
 </manifest>
