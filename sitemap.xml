@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://natsitarz.github.com/index.html</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://natsitarz.github.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/jdd.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://natsitarz.github.com/phone/news.html</loc>
@@ -26,14 +29,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/news--sitarion-productions.html</loc>
-    <lastmod>2020-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://natsitarz.github.com/projects--sitarion-productions.html</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -63,17 +60,23 @@
     <image:image>
       <image:loc>http://natsitarz.github.com/images/372636-crop0_74_720_479-bc34byfr-v4.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/pik.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/brzdj-crop-u2383.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://natsitarz.github.com/about-us--sitarion-productions.html</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://natsitarz.github.com/images/avatar.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/brzdj.png</image:loc>
+      <image:loc>http://natsitarz.github.com/images/brzdj212x212.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://natsitarz.github.com/images/79658586_2554299231520376_8492013890316533760_o.jpg</image:loc>
@@ -86,8 +89,53 @@
     </image:image>
   </url>
   <url>
+    <loc>http://natsitarz.github.com/news--sitarion-productions.html</loc>
+    <lastmod>2020-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/jdd.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://natsitarz.github.com/pik--sitarion-productions.html</loc>
+    <lastmod>2020-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/html5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/pik.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/human.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/icon-32.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://natsitarz.github.com/jaskinia--sitarion-productions.html</loc>
+    <lastmod>2020-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/winwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/appwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/human.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://natsitarz.github.com/images/brzdj-crop-u2473.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://natsitarz.github.com/assets/bez-nazwy-1.png</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
