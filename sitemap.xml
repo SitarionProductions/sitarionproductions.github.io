@@ -1,140 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://natsitarz.github.com/index.html</loc>
+    <loc>https://sitarionproductions.github.io/index.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://natsitarz.github.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://sitarionproductions.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/jdd.gif</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/jdd.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/phone/news.html</loc>
+    <loc>https://sitarionproductions.github.io/phone/news.html</loc>
     <lastmod>2020-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/phone/projects.html</loc>
+    <loc>https://sitarionproductions.github.io/phone/projects.html</loc>
     <lastmod>2020-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/phone/aboutme.html</loc>
+    <loc>https://sitarionproductions.github.io/phone/aboutme.html</loc>
     <lastmod>2020-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/projects--sitarion-productions.html</loc>
+    <loc>https://sitarionproductions.github.io/projects--sitarion-productions.html</loc>
+    <lastmod>2020-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/246968-crop0_52_1680_997-zxfq5e8a-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/winwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/appwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/372813-crop0_24_1280_744-xq8jd6mq-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/html5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/366389-crop0_26_1280_746-qiuptaui-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/359238-crop1_63_630_417-gpvmjttw-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/androidwhite.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/372636-crop0_74_720_479-bc34byfr-v4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/pik.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/brzdj-crop-u2383.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/2020-11-04_153134-crop-u2600.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sitarionproductions.github.io/about-us--sitarion-productions.html</loc>
     <lastmod>2020-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/246968-crop0_52_1680_997-zxfq5e8a-v4.jpg</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/avatar.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/winwhite.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/brzdj212x212.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/appwhite.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/79658586_2554299231520376_8492013890316533760_o.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/372813-crop0_24_1280_744-xq8jd6mq-v4.jpg</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/94889307_683124282463329_8767221564849520640_o.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/html5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/366389-crop0_26_1280_746-qiuptaui-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/359238-crop1_63_630_417-gpvmjttw-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/androidwhite.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/372636-crop0_74_720_479-bc34byfr-v4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/pik.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/brzdj-crop-u2383.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/86473250_2568968523340478_7647871191075520512_n.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/about-us--sitarion-productions.html</loc>
-    <lastmod>2020-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/avatar.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/brzdj212x212.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/79658586_2554299231520376_8492013890316533760_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/94889307_683124282463329_8767221564849520640_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://natsitarz.github.com/images/86473250_2568968523340478_7647871191075520512_n.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://natsitarz.github.com/news--sitarion-productions.html</loc>
+    <loc>https://sitarionproductions.github.io/news--sitarion-productions.html</loc>
     <lastmod>2020-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/jdd.gif</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/jdd.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/pik--sitarion-productions.html</loc>
+    <loc>https://sitarionproductions.github.io/jaskinia--sitarion-productions.html</loc>
     <lastmod>2020-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/html5.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/winwhite.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/pik.jpg</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/appwhite.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/human.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/human.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/icon-32.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/brzdj-crop-u2473.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/jaskinia--sitarion-productions.html</loc>
+    <loc>https://sitarionproductions.github.io/pik--sitarion-productions.html</loc>
     <lastmod>2020-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/winwhite.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/html5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/appwhite.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/pik.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/human.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/human.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://natsitarz.github.com/images/brzdj-crop-u2473.png</image:loc>
+      <image:loc>https://sitarionproductions.github.io/images/icon-32.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://natsitarz.github.com/assets/bez-nazwy-1.png</loc>
+    <loc>https://sitarionproductions.github.io/minecraft-modpack.html</loc>
+    <lastmod>2020-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sitarionproductions.github.io/images/2020-11-04_153134-crop-u2633.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sitarionproductions.github.io/assets/bez-nazwy-1.png</loc>
     <lastmod>2020-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
